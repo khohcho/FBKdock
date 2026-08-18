@@ -1,0 +1,25 @@
+# Python caches and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Runtime user-data directories (only .gitkeep is committed)
+Protein/*
+Ligand/*
+cocligand/*
+!Protein/.gitkeep
+!Ligand/.gitkeep
+!cocligand/.gitkeep
+
+# Pipeline workspaces (auto-created at runtime)
+*_docking*/
+*_redock*/
+Protein/prepared*/
+template_recovery/
+
+# Personal agent configuration
+.kilo/
+
+# IDE / editor
+.vscode/
+.idea/

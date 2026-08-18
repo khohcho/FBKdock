@@ -1,0 +1,14 @@
+protein = protein/receptor.pdbqt
+ligand_directory = input
+output_directory = output
+opencl_binary_path = .
+center_x = -9.923
+center_y = -26.885
+center_z = -43.059
+size_x = 15
+size_y = 23
+size_z = 23
+thread = 8000
+num_modes = 9        
+energy_range = 3
+search_depth = 24

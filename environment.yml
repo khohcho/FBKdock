@@ -1,0 +1,12 @@
+name: FBKdock_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rdkit>=2023.03
+  - biopython>=1.81
+  - xtb>=6.7
+  - meeko>=0.5
+  - pdb2pqr>=3.6
+  - propka>=3.5

@@ -1,0 +1,16 @@
+protein = protein/receptor.pdbqt
+batch = input
+dir = output
+center_x = -9.923
+center_y = -26.885
+center_z = -43.059
+size_x = 15
+size_y = 23
+size_z = 23
+exhaustiveness = 8
+num_modes = 9        
+energy_range = 3
+scoring = vina
+verbosity = 1
+cpu = 0
+

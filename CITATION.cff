@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use FBKdock in your research, please cite it as below."
+title: "FBKdock: Fully Automated End-to-End Molecular Docking Pipeline"
+abstract: "FBKdock is a cross-platform (Windows & Linux) pipeline that automates the complete molecular docking workflow: receptor preparation (interactive residue cleaning, PDB2PQR with AMBER force field and PROPKA titration, ADFRsuite PDBQT conversion), co-crystallized ligand redocking with a symmetry-aware RMSD quality gate, and batch virtual screening (GFN2-xTB minimization and Meeko PDBQT preparation) powered by Vina-GPU or AutoDock Vina."
+authors:
+  - family-names: "Kılıç"
+    given-names: "Fahrettin Buğra"
+    orcid: "https://orcid.org/0009-0001-3632-4328"
+    email: "eczfbkilic@gmail.com"
+version: 1.0.0
+date-released: 2026-08-18
+license: GPL-3.0-or-later
+license-url: "https://www.gnu.org/licenses/gpl-3.0"
+repository-code: "https://github.com/khohcho/FBKdock"
+keywords:
+  - molecular docking
+  - virtual screening
+  - Vina-GPU
+  - AutoDock Vina
+  - protein preparation
