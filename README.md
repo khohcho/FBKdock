@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![DOI](https://zenodo.org/badge/1337801934.svg)](https://doi.org/10.5281/zenodo.21987527)
+
 FBKdock is a cross-platform (Windows & Linux) pipeline that automates the
 full molecular docking workflow: **protein preparation**, **co-crystallized
 ligand redocking validation**, and **batch virtual screening**, using

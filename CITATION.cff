@@ -11,6 +11,7 @@ version: 1.0.0
 date-released: 2026-08-18
 license: GPL-3.0-or-later
 license-url: "https://www.gnu.org/licenses/gpl-3.0"
+doi: 10.5281/zenodo.21987527
 repository-code: "https://github.com/khohcho/FBKdock"
 keywords:
   - molecular docking
